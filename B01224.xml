@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ballad intituled, Prepare ye to the plowe, to the tune, of Pepper is blacke. The Queene holdes the plow, to continew good seede. Trustie subiectes be readie to helpe if she neede.</title>
+            <author>Elderton, William, d. 1592?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01224</idno>
+            <idno type="STC">STC 7555</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[25]</idno>
+            <idno type="EEBO-CITATION">99892888</idno>
+            <idno type="PROQUEST">ocm99892888</idno>
+            <idno type="VID">182340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182340)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ballad intituled, Prepare ye to the plowe, to the tune, of Pepper is blacke. The Queene holdes the plow, to continew good seede. Trustie subiectes be readie to helpe if she neede.</title>
+                  <author>Elderton, William, d. 1592?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>in Fleetestreete, by William How, for Richard Iohnes: and are to be solde at his shop, ioyning to the southwest doore of Paules Church,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1570]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: VV. Elderton.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Verse: "Looke vp my lordes, and marke my wordes ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603 --  Early works to 1800.</term>
+               <term>Ballads, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182340:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>A ballad intituled, Prepare ye to the Plowe,</head>
+            <opener>To the Tune, of Pepper is blacke.</opener>
+            <argument>
+               <l>¶ The Queene holdes the Plow, to continew good ſeede.</l>
+               <l>Truſtie Subiectes be readie to helpe if ſhe neede.</l>
+            </argument>
+            <lg>
+               <l>LOoke vp my Lordes, and marke my wordes,</l>
+               <l>and heare what I ſhall ſing ye:</l>
+               <l>And Subiects all, both great and ſmall,</l>
+               <l>Now marke what word I bring ye.</l>
+               <l>
+                  <hi>Parnaſo</hi> Hill, nor all the ſkill,</l>
+               <l>Of Nimphs or Muſes fayned:</l>
+               <l>Can bring about that I finde out,</l>
+               <l>By Chriſt hin ſelfe ordayned.</l>
+            </lg>
+            <lg>
+               <l>Let wiſdom be, as it is I ſee,</l>
+               <l>A gift moſt worth the telling:</l>
+               <l>Which neuer was, ſo brought to paſſe,</l>
+               <l>Where Pagans haue ben dwelling.</l>
+               <l>Is now in fine, by power deuine,</l>
+               <l>Among vs Engliſh planted:</l>
+               <l>Which many a day, was kept away,</l>
+               <l>And many a one it wanted.</l>
+            </lg>
+            <lg>
+               <l>And by that wiſdom, haue we had,</l>
+               <l>Such proofe as yet was neuer:</l>
+               <l>To Iudge and deeme, both good and bad</l>
+               <l>To our great comfort euer.</l>
+               <l>Which ſithes we haue, now let vs hold</l>
+               <l>This Tutchſtone is the triall:</l>
+               <l>To beate the baggage from the Gold,</l>
+               <l>and truth from falſe deniall.</l>
+            </lg>
+            <lg>
+               <l>And by this knowledge we do know,</l>
+               <l>That euery thing is vaine:</l>
+               <l>Beneath the Sonn, which heare below,</l>
+               <l>We couet to attaine.</l>
+               <l>Let not the ſpright, geue vs delight,</l>
+               <l>To labour and attend vs:</l>
+               <l>To ſeke to haue, before our Graue,</l>
+               <l>The ioy that Chriſte may ſend vs.</l>
+            </lg>
+            <lg>
+               <l>In ſeking that, then muſt we nat,</l>
+               <l>Build on the Sandy Surges:</l>
+               <l>Now ſow our Seede, where euery Weede,</l>
+               <l>His grace and bounty vrges.</l>
+               <l>Nor put our hope, in Preeſte or Pope,</l>
+               <l>In Maſſe or other matters:</l>
+               <l>Or by our Dole, to ſaue our Soule,</l>
+               <l>With filling empty Platters.</l>
+            </lg>
+            <lg>
+               <l>Or by a Pardon, to appeaſe,</l>
+               <l>The Surfits of our ſinning:</l>
+               <l>Although our fathers, had all theaſe,</l>
+               <l>By wicked mens beginning</l>
+               <l>Nor let vs make our ſtock and ſtore,</l>
+               <l>A burden to accuſe vs:</l>
+               <l>For doing ſo, ſo much the more,</l>
+               <l>We tempt God to refuſe vs.</l>
+            </lg>
+            <lg>
+               <l>Neither let vs once preſume ſo far,</l>
+               <l>Of mercy or of meekenes:</l>
+               <l>To counterfait, to make or mar,</l>
+               <l>This Image or this likeneſſe.</l>
+               <l>That our forefathers did beleue,</l>
+               <l>Were Gods, to geue and guide them:</l>
+               <l>Such follies did the Chriſtians greeue,</l>
+               <l>and Pagans now deride them.</l>
+            </lg>
+            <lg>
+               <l>Remember once the latter law</l>
+               <l>Left yet in Moyſes Table:</l>
+               <l>That Neighbourly to liue in awe,</l>
+               <l>It is moſt commendable.</l>
+               <l>Then ſhouldſt thou not deſire to craue,</l>
+               <l>Thy Neigbours loſſe or lacke:</l>
+               <l>Neither exceſſe deſire to haue,</l>
+               <l>That puts thy ſoule to wracke.</l>
+            </lg>
+            <lg>
+               <l>Neither Vſery, nor vſe at all,</l>
+               <l>Of women, wealth, or Wine:</l>
+               <l>Neither of aboundance, great or ſmall,</l>
+               <l>Ill gotten ſhould be thine.</l>
+               <l>Neither ſhould contencion, craft increaſe,</l>
+               <l>Nor ſwearing beare the ſway:</l>
+               <l>Nor God vnſerued men as beaſts</l>
+               <l>Would break the Sabboth day.</l>
+            </lg>
+            <lg>
+               <l>Then would the honour duly hit,</l>
+               <l>To Parents Lord or King:</l>
+               <l>Then would ther be no doubt a whit,</l>
+               <l>To haue ſtore of euery thing.</l>
+               <l>All this the new Law, with the old</l>
+               <l>Doth Nip vs to remember:</l>
+               <l>Euen as the froſt, that waxeth cold,</l>
+               <l>Doth Nip vs in December.</l>
+            </lg>
+            <lg>
+               <l>And as vpon, a ſodain heat,</l>
+               <l>We ſoone forget that freeſing:</l>
+               <l>When God doth of his mercy great,</l>
+               <l>Spare vs for lack of leeſing.</l>
+               <l>So let vs think, as Sommer ſhows</l>
+               <l>Grene Graſſe to our deliting:</l>
+               <l>We ſe that all the Graſſe that growes,</l>
+               <l>Goth down with litle ſmiting.</l>
+            </lg>
+            <lg>
+               <l>And when the Mowyer coms to Mowe,</l>
+               <l>Tis ſone both Ripe and Rotten:</l>
+               <l>This tale I truſt, of hye and low,</l>
+               <l>Will neuer be forgotten.</l>
+               <l>On Gods good Booke, then let vs loke,</l>
+               <l>For that which neuer faileth:</l>
+               <l>Without which boke, by Hooke, or crooke,</l>
+               <l>No worldly wit preuaileth.</l>
+            </lg>
+            <lg>
+               <l>God ſaue her grace that holds the Plow,</l>
+               <l>To ſowe this truſty treaſure:</l>
+               <l>Though many a one be ſtubborn now,</l>
+               <l>And Harrow it but at leaſure.</l>
+               <l>God graunt that he that Harrowed Hell,</l>
+               <l>In guardon ſtill may haue her:</l>
+               <l>And ſend you grace, that thinke not well,</l>
+               <l>Of God that ſo doth ſaue hir.</l>
+            </lg>
+            <closer>
+               <signed>VV. Elderton.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprinted at London, in Fléeteſtréete, by William How, for Richard Iohnes: and are to be ſolds at his Shop, ioyning to the Southweſt doore of Paules Church.</p>
+            <p>
+               <figure>
+                  <figDesc>printer's device incorporating double-headed eagle</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
